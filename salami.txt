@@ -1,3 +1,4 @@
 pomodoro
 mozzarella
 pepperoni
+peppers
